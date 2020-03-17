@@ -1,2 +1,1 @@
-# hello-world
-web page
+created a responsive webpage using html and inline css.
